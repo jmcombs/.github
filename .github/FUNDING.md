@@ -33,4 +33,4 @@ While I don't offer specific perks for each tier (because I believe open source 
 
 ## Questions?
 
-Feel free to reach out to me on [X/Twitter (@dreinidaho)](https://x.com/dreinidaho) or through [my website](https://wwjcdo.com) if you have any questions about sponsorship\!
+Feel free to reach out to me on [X/Twitter (@dreinidaho)](https://x.com/dreinidaho) or [LinkedIn](https://linkedin.com/in/jeremycombs) if you have any questions about sponsorship\!

@@ -42,6 +42,5 @@ Every sponsorship, no matter the size, means the world to me. It's not just abou
 ---
 
 **Connect with me:**
-- 🌐 Website: [wwjcdo.com](https://wwjcdo.com)
 - 🐦 X/Twitter: [@dreinidaho](https://x.com/dreinidaho)
 - 💼 LinkedIn: [jeremycombs](https://linkedin.com/in/jeremycombs)
