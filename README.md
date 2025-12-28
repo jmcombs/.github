@@ -12,32 +12,26 @@ An eye-friendly theme designed specifically for people with astigmatism. This un
 
 ## 💡 Why Sponsor Me?
 
-I build tools that I need, and I share them because I believe others might need them too. My focus is on:
+I build tools that I need and share them with the community. My focus areas:
 
-- **Accessibility**: Creating themes and tools that work for everyone, especially those with visual challenges
+- **Accessibility**: Creating themes and tools that work for everyone, especially those with visual challenges like my own
 - **Practical Solutions**: Building utilities that solve real problems in development workflows
-- **Multi-Platform Support**: Ensuring my projects work across different architectures and platforms
+- **Multi-Platform Support**: Ensuring projects work across different architectures and platforms
 - **Community First**: Maintaining open source projects that benefit the broader developer community
 
 ## 💰 How Sponsorship Helps
 
-Your sponsorship directly supports:
+Sponsorship supports:
 
-- ⚙️ **Hosting & Build Costs**: Multi-architecture builds and container hosting aren't free
-- ⏰ **Development Time**: More time to maintain, improve, and expand these projects
-- 🌟 **Supporting Dependencies**: Contributing back to the open source projects I rely on
-- 🆕 **New Features**: Building the features and improvements the community requests
+- **Hosting & Build Costs**: Multi-architecture builds and container hosting
+- **Development Time**: Maintenance, improvements, and feature development
+- **Supporting Dependencies**: Contributing to the open source projects these tools rely on
 
 ## 🎯 Current Goals
 
-- Maintain and improve multi-architecture support for sftp
-- Expand blue-psl-10k theme support to additional editors and terminals
-- Create more accessibility-focused development tools
-- Contribute back to the open source ecosystem that makes my work possible
-
-## 🙏 Thank You\!
-
-Every sponsorship, no matter the size, means the world to me. It's not just about the financial support—it's validation that what I'm building matters to others. Thank you for considering supporting my work\!
+- Maintain and improve sftp
+- Expand blue-psl-10k theme support
+- Contribute back to the open source ecosystem
 
 ---
 
