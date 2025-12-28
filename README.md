@@ -1,6 +1,6 @@
 # Hi there\! 👋
 
-I'm Jeremy Combs, a Cisco Collaboration enthusiast and open source developer based in Atlanta, GA. I create and maintain tools and themes that solve real-world problems for developers and users with accessibility needs.
+I'm Jeremy Combs, a Cisco Collaboration enthusiast and open source developer based in Atlanta, GA. I create and maintain tools and themes that solve real-world problems for developers and users with astigmatism.
 
 ## 🚀 What I'm Working On
 
